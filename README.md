@@ -26,7 +26,8 @@ python weather_tool.py [location]
 
 ## Requirements
 - Python 3.x
-- See `requirements.txt` for a list of Python packages required. Install these dependencies using `pip install -r requirements.txt`.
+- See `requirements.txt` for a list of Python packages required.
+- Install these dependencies using `pip install -r requirements.txt`.
 
 ## Contributing
 Contributions to the Weather App are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on GitHub.
