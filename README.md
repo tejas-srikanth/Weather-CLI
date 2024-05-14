@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 4. Run the weather CLI app with the following command:
 ```python
-python weather.py [location]
+python weather_tool.py [location]
 ```
 5. Replace `[location]` with the desired location for which you want to retrieve weather information. If no location is provided, the app will use your current location.
 
